@@ -37,7 +37,7 @@ roles:
    description: A web application that controls all the lights and fans with an Android device.
    
 
- - title:Led display using IOT and .net
+ - title: Led display using IOT and .net
    start: 2017 September
    end: 2017 october
    Role: devolopper
