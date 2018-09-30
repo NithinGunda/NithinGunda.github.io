@@ -55,12 +55,13 @@ education:
  - level: Bachelor of Engineering (B.tech.)
    date: 2014-2018
    subject: Computer Science
-   college: PVKK institute of technology.gfyftftr
+   college: PVKK institute of technology.
 
 
 
 #List of interesting Github repo/projects to include - optional
-project - github: https://nithingunda.github.io/
+project:
+- github: https://nithingunda.github.io/
 
 
 #Stackoverflow flair is optional
