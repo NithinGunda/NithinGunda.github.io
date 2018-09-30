@@ -1,7 +1,7 @@
 # Site settings
-title: Rohit Goldsmith
-twitter_username: RohitG
-name: Rohit Goldsmith
+title: NithinGunda
+twitter_username: nithingsai
+name: Gunda Venkata Nithin Sai
 
 # Build settings
 markdown: kramdown
@@ -10,9 +10,9 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: GitHub
-   url: https://github.com/rgrohitg
+   url: https://github.com/NithinGunda
  - title: LinkedIn
-   url: https://www.linkedin.com/in/rohit-g-3025aa28/
+   url: 
 
 #Any buzzword skills you want to include
 skills:
@@ -23,6 +23,7 @@ skills:
  - Basic knowledge on BOOTSTRAP 3
  - CSS
  - JavaScript
+ - JDBC
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 
@@ -32,37 +33,34 @@ roles:
  - title: Devolopped an IOT mini project
    start: 2017 july
    end: 2017 August
-   description: Web apllication based on Microservices architecture and applications deployed on openshift .
- - title: IT Analyst
-   start: 2016
-   end: 2014
-   employer: Tata Consultancy Services
-   description: description.........
- - title: Software developer
-   start: 2014
-   end: 2011
-   employer: Tata Consultancy Services
-   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+   Role: devolopper
+   description: A web application that controls all the lights and fans with an Android device.
+   
+
+ - title:Led display using IOT and .net
+   start: 2017 September
+   end: 2017 october
+   Role: devolopper
+
+   description: A device that displays the message sent by  android device.
+   
+ - title: Attendance moniter and accounting using Barcode Scanner
+   start: 2018 january
+   end: 2018 April
+   Role: devolopper
+   description: Through a unique barcode given to every student we scan and get the attendance details and fee details .
 
 #Education is required
 education:
- - level: Bachelor of Engineering (B.Sc.)
-   date: 2003
+ - level: Bachelor of Engineering (B.tech.)
+   date: 2014-2018
    subject: Computer Science
-   school: Siddaganga Institute of Technology Tumukur
+   college: PVKK institute of technology.
 
-#This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/account/accomplishments/verify/5N2AHV69JARF
-   courses:
-    - title: Google Cloud Platform Fundamentals Core Infrastructure
-      link: https://www.coursera.org/learn/gcp-fundamentals
-      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/31/8ffb301bf011e79fa2d5b154b6a30b/GCP-Fundamentals-Core-Infra.jpg?auto=format%2Ccompress&dpr=1&w=100&h=100&bg=000&fit=fill
-      date: June 2018
 
 
 #List of interesting Github repo/projects to include - optional
-github:
+github:https://github.com/NithinGunda/info
  -
 
 #Stackoverflow flair is optional
@@ -74,5 +72,5 @@ apps:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Java is the primary language used - and I am familiar with many of the languages features and quirks . <br/><br/>
+   <strong></strong>: I have done my internship as a java trainee and developped a project which is an e-commerce type with use of jsp,servlets,html,css,jdbc and bootstrap. . <br/><br/>
 
