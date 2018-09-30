@@ -30,24 +30,24 @@ skills:
 
 #Work experience is required
 roles:
- - title: Devolopped an IOT mini project
+ - title: Developed an IOT mini project
    start: 2017 july
    end: 2017 August
-   Role: devolopper
+   Role: Developer
    description: A web application that controls all the lights and fans with an Android device.
    
 
  - title: Led display using IOT and .net
    start: 2017 September
    end: 2017 october
-   Role: devolopper
+   Role: developer
 
    description: A device that displays the message sent by  android device.
    
  - title: Attendance moniter and accounting using Barcode Scanner
    start: 2018 january
    end: 2018 April
-   Role: devolopper
+   Role: developer
    description: Through a unique barcode given to every student we scan and get the attendance details and fee details .
 
 #Education is required
