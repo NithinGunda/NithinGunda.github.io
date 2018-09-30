@@ -60,7 +60,7 @@ education:
 
 
 #List of interesting Github repo/projects to include - optional
-github: https://github.com/NithinGunda/NithinGunda.github.io
+github: https://nithingunda.github.io/
  -
 
 #Stackoverflow flair is optional
@@ -72,5 +72,5 @@ apps:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong></strong>: I have done my internship as a java trainee and developped a project which is an e-commerce type with use of jsp,servlets,html,css,jdbc and bootstrap. . <br/><br/>
+   <strong></strong> I have done my internship as a java trainee and developped a project which is an e-commerce type with use of jsp,servlets,html,css,jdbc and bootstrap. . <br/><br/>
 
